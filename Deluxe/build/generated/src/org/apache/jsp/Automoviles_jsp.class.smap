@@ -1,0 +1,26 @@
+SMAP
+Automoviles_jsp.java
+JSP
+*S JSP
+*F
++ 0 Automoviles.jsp
+Automoviles.jsp
++ 1 header.jsp
+layout/header.jsp
++ 2 sidebar.jsp
+layout/sidebar.jsp
++ 3 navbar.jsp
+layout/navbar.jsp
++ 4 footer.jsp
+layout/footer.jsp
+*L
+5,5:52
+5#1,28:56
+9#0:83
+5#2,125:84
+10#0:208
+5#3,63:209
+11#0,32:271
+5#4,49:302
+42#0,116:350
+*E

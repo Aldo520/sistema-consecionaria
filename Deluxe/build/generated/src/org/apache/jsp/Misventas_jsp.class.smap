@@ -1,0 +1,42 @@
+SMAP
+Misventas_jsp.java
+JSP
+*S JSP
+*F
++ 0 Misventas.jsp
+Misventas.jsp
++ 1 header.jsp
+layout/header.jsp
++ 2 sidebar.jsp
+layout/sidebar.jsp
++ 3 navbar.jsp
+layout/navbar.jsp
++ 4 footer.jsp
+layout/footer.jsp
+*L
+5,7:60
+5#1,27:66
+11#0:92
+5#2,11:93
+16:104,3
+17,30:107
+47,3:137,3
+50,15:146
+65,2:161,3
+67,22:167
+89:189,3
+90,40:192
+12#0:231
+5#3,63:232
+13#0,7:294
+20,3:15
+22,20:301
+42,3:322
+44,3:325
+47,7:328,3
+54,9:349
+63,2:359
+64,14:361
+5#4,49:374
+77#0,4:422
+*E

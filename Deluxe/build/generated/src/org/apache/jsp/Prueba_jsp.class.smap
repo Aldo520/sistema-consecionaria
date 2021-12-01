@@ -1,0 +1,42 @@
+SMAP
+Prueba_jsp.java
+JSP
+*S JSP
+*F
++ 0 Prueba.jsp
+Prueba.jsp
++ 1 header.jsp
+layout/header.jsp
++ 2 sidebar.jsp
+layout/sidebar.jsp
++ 3 navbar.jsp
+layout/navbar.jsp
++ 4 footer.jsp
+layout/footer.jsp
+*L
+5,15:72
+5#1,27:86
+19#0:112
+5#2,11:113
+16:124,3
+17,30:127
+47,3:157,3
+50,15:166
+65,2:181,3
+67,22:187
+89:209,3
+90,40:212
+20#0:251
+5#3,63:252
+21#0,7:314
+28,10:20
+37,22:321
+59,4:344
+62:348
+63:349,6
+64:355
+65,2:357
+66,105:359
+5#4,49:463
+170#0,5:511
+*E
